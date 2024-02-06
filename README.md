@@ -30,9 +30,9 @@ The company would like to understand the important variables and how they contri
 
 For the entire data (that includes Fully Paid, Charged Off and Current customers)<br />
 - 83% of the loans have been fully paid and about 14% of the them have been charged off
-- Most of the loans have been taken for the purpose of debt consolidation (47%) and credit card (13%) <br />
+- Most of the loans have been taken for the purpose of debt consolidation (47%) and credit card (13%) <br /><br />
 
-For the entire data (that includes only Charged Off customers) <br />
+For the entire data (that includes only Charged Off customers) 
 - Customers having a lower tenure of loan (36 months) have a high rate of default (57%) as compared to those opting for a higher tenure (60 months) of loan
 - Customers who have been employed for more than 10 years have accounted for about one-fourth (25%) of the defaults
 - Customers who are in either a rented house or a house (that is still in mortgage) have accounted for about 90% of the defaults
@@ -44,15 +44,15 @@ For the entire data (that includes only Charged Off customers) <br />
 
 - Observation: Both Verified (36%) and Not Verified (38%) customers account for a high percentage of charged off customers
 - California accounts for the highest number of charged off customers (~20%), followed by Florida (9%) and NY (9%)
-- Majority of loan taker have annual income in range of 40000-81000¶ <br />
+- Majority of loan taker have annual income in range of 40000-81000¶ <br /><br />
 
 Considering the overall data (that includes Fully Paid, Charged Off and Current customers):
-•	Proprtion of charged-off customers is more in the loan tenure of 60 months (23%) as compared to 36 months (11%)
-•	Most of the loan defaults are by applicants who are at the lower income brackets
-•	Loans taken for small business have a high of being charged-off
-•	Grades F (30%) and G (32%) have more chances of being charged off
-•	With increase in interest rates, the chance of the loan becoming charged-off increases
-•	The loans provided to customers who have high record of bankruptcies (“pub_rec_bankruptcies”) are more likely to be charged off
+- Proprtion of charged-off customers is more in the loan tenure of 60 months (23%) as compared to 36 months (11%)
+- Most of the loan defaults are by applicants who are at the lower income brackets
+- Loans taken for small business have a high of being charged-off
+- Grades F (30%) and G (32%) have more chances of being charged off
+- With increase in interest rates, the chance of the loan becoming charged-off increases
+- The loans provided to customers who have high record of bankruptcies (“pub_rec_bankruptcies”) are more likely to be charged off
 
 ## Technologies Used
 - Excel
