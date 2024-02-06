@@ -61,7 +61,10 @@ Considering the overall data (that includes Fully Paid, Charged Off and Current 
 - seaborn.pydata
 
 ## Acknowledgements
+Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
+
+
 
 Contributors:
-* [Chaitanya Vanapamala](https://github.com/chaitanya-vanapamala/)
-* [B Balaji](https://github.com/BalajiB197)
+* [Chaitanya Bhure](https://github.com/bhurechaitanya)
+* [Pradeeph Sundar Sundararaj](s.pradeephsundar@gmail.com)
