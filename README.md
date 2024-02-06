@@ -7,20 +7,20 @@ The company would like to understand the important variables and how they contri
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-•	The conclusions have been highlighted in the below section and also in our presentation
+- The conclusions have been highlighted in the below section and also in our presentation
 * [Acknowledgements](#acknowledgements)
 
 
 ## General Information
 - Provide general information about your project here.
 - What is the background of your project?
-•	To perform a risk analytics project for a consumer finance company 
+- To perform a risk analytics project for a consumer finance company 
 - What is the business probem that your project is trying to solve?
-•	To help a consumer finance company, to identify the factors that influence the chances of loan default
-•	The company can utilise this knowledge for portfolio and risk assessment
+- To help a consumer finance company, to identify the factors that influence the chances of loan default
+  The company can utilise this knowledge for portfolio and risk assessment
 - What is the dataset that is being used?
-•	The dataset and the data dictionary have been provided by the company 
-•	The dataset has all the details pertaining to the loans provided from 2007 to 2011
+- The dataset and the data dictionary have been provided by the company 
+- The dataset has all the details pertaining to the loans provided from 2007 to 2011
 
 
 ## Conclusions
