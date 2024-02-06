@@ -69,5 +69,6 @@ Developed as part of the Exloratory Data Analysis Module required for Post Gradu
 
 
 Contributors:
-* [Chaitanya Bhure](https://github.com/bhurechaitanya)
 * [Pradeeph Sundar Sundararaj](s.pradeephsundar@gmail.com)
+* [Chaitanya Bhure](https://github.com/bhurechaitanya)
+
